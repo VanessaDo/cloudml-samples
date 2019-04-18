@@ -1,4 +1,0 @@
-trainingInput:
-  scaleTier: CUSTOM
-  # Configure a master worker with no GPU
-  masterType: n1-standard-4
